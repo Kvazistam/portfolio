@@ -1,0 +1,8 @@
+baseURL = 'https://kvazistam.github.io/portfolio/'
+languageCode = 'en-us'
+title = 'Портфолио Маковеева Никиты Владимировича'
+theme = 'paper'
+
+[params]
+  github = "kvazistam"
+
