@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- ---
 title: "Портфолио работ за 3 семестр"
 ---
@@ -26,6 +27,18 @@ draft: false
 ---
 
 ## 🎓 Мои работы
+=======
+---
+title: "Привет, я Маковеев Никита Владимирович"
+description: "Студент | Разработчик"
+---
+
+> **Кратко о себе:** Я студент 4го курса ргпу им. Герцена, основной язык Python. На этом сайте я документирую свой путь и сохраняю учебные проекты.
+
+---
+
+## 🎓 Образование и Курсы
+>>>>>>> remotes/origin/source
 
 Здесь я публикую отчеты и проекты по годам обучения:
 
@@ -38,6 +51,7 @@ draft: false
 
 | Категория | Технологии |
 |-----------|------------|
+<<<<<<< HEAD
 | **Языки** | Python, JavaScript, C/C++|
 | **Инструменты** | Git, Docker, Linux, PostgreSQL, numpy |
 | **Интересы** | DL/ML, веб-разработка |
@@ -50,3 +64,18 @@ draft: false
 
 ---
 *Сайт работает на **Hugo**. Хостинг: **GitHub Pages**.*
+=======
+| **Языки** | Python, JavaScript, Go, C++ |
+| **Web** | HTML, CSS, Hugo, React |
+| **Tools** | Git, Docker, Linux, PostgreSQL |
+
+## 📬 Контакты
+
+- 📧 Email: [tvoya@pochta.com](mailto:tvoya@pochta.com)
+- 💼 LinkedIn: [linkedin.com/in/твой-профиль](https://linkedin.com/in/твой-профиль)
+- 🐙 GitHub: [github.com/твой-ник](https://github.com/твой-ник)
+- ✈️ Telegram: [@твой-ник](https://t.me/твой-ник)
+
+---
+*Сайт работает на **Hugo** + тема **Paper**. Хостинг: **GitHub Pages**.*
+>>>>>>> remotes/origin/source
