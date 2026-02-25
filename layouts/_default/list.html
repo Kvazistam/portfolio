@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+    </header>
+    
+    <!-- Твой контент из _index.md -->
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+    
+    <!-- Список дочерних страниц -->
+    <div class="section-list">
+      {{ range .Pages }}
+        <div class="post-entry">
+          <a href="{{ .Permalink }}" class="post-link">
+            <h2 class="post-title">{{ .Title }}</h2>
+          </a>
+          {{ if .Description }}
+            <p class="post-description">{{ .Description }}</p>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </article>
+{{ end }}

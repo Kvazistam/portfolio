@@ -6,3 +6,8 @@ theme = 'paper'
 [params]
   github = "kvazistam"
 
+[menu]
+  [[menu.main]]
+    name = "Курсы"
+    url = "/courses/"
+    weight = 10
