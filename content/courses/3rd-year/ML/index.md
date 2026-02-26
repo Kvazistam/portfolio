@@ -5,11 +5,7 @@ description: "Курс по машинному обучению за 6 семе�
 
 ## Ниже список ссылок на мои лабароторные работы
 
-- [Lab 1](https://github.com/Kvazistam/PROG-5/tree/master/Lab-1) - Лабораторная работа 1. Реализация удаленного импорта.
-- [Lab 2](https://github.com/Kvazistam/PROG-5/tree/master/Lab-2) - Лабораторная работа 2. Использование API openweathermap.org
-- [Lab 4](https://github.com/Kvazistam/PROG-5/tree/master/Lab-4) - Лабораторная работа 4. Создание генератора с элементами ряда Фибоначчи
-- [Lab 5](https://github.com/Kvazistam/PROG-5/tree/master/Lab-5) - Лабораторная работа 5. Получение курсов валют (ООП)
-- [Lab 6](https://github.com/Kvazistam/PROG-5/tree/master/Lab-6) - Лабораторная работа 6. Использование шаблона «Декоратор»
-- [Lab 7](https://github.com/Kvazistam/PROG-5/tree/master/Lab-7) - Лабораторная работа 7. Использование шаблона «Наблюдатель»
-- [Lab 8](https://colab.research.google.com/drive/1ytRS9z3GMRTjkX60VNQrnbscX9YB7-BN#scrollTo=4OGsISP8rk5C) - Лабораторная работа 8. Графики matplotlib
-- [Lab 9](https://github.com/Kvazistam/PROG-5/tree/master/Lab-9) - Лабораторная работа 9. REST-сервис для просмотра текущего уровня бонусной программы
+- [Lab 1](https://github.com/Kvazistam/herzen/tree/master/Vlasov_lab/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/Lab-1) - Лабораторная работа 1..
+- [Lab 2](https://github.com/Kvazistam/herzen/tree/master/Vlasov_lab/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/Lab-2) - Лабораторная работа 2.
+- [Lab 3](https://github.com/Kvazistam/herzen/tree/master/Vlasov_lab/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/Lab-3) - Лабораторная работа 3.
+- [Lab 4](https://github.com/Kvazistam/herzen/tree/master/Vlasov_lab/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/Lab-4) - Лабораторная работа 4.
