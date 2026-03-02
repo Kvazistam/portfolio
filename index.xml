@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Привет, я Маковеев Никита Владимирович on Портфолио Маковеева Никиты Владимировича</title>
+    <link>https://kvazistam.github.io/portfolio/</link>
+    <description>Recent content in Привет, я Маковеев Никита Владимирович on Портфолио Маковеева Никиты Владимировича</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 10:00:00 +0300</lastBuildDate><atom:link href="https://kvazistam.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2 курс. Базы данных</title>
+      <link>https://kvazistam.github.io/portfolio/courses/2nd-year/data-bases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/2nd-year/data-bases/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  SR 1 - Презентация на тему: ведущие производители СУБД. SR 2 - Самостоятельная работа 2. Таблица: Модели данных и их характеристики SR 3 - Самостоятельная работа 3. Инвариантное задание 3.1 SR 4 - Самостоятельная работа 4. Проектирование с учетом 3НФ Lab 2 - Лабораторная работа 2. Схема данных. EER-диаграмма Lab 3 - Лабораторная работа 3. Задачи на реляционную алгебру. Lab 4 - Лабораторная работа 4.</description>
+    </item>
+    
+    <item>
+      <title>2 курс. Компьютерное моделирование</title>
+      <link>https://kvazistam.github.io/portfolio/courses/2nd-year/comp-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/2nd-year/comp-model/</guid>
+      <description>Ниже список ссылок на мои работы  Lab 2 - Лабораторная работа 2. Lab 3 - Лабораторная работа 3.  </description>
+    </item>
+    
+    <item>
+      <title>2 курс. Операционные системы</title>
+      <link>https://kvazistam.github.io/portfolio/courses/2nd-year/dos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/2nd-year/dos/</guid>
+      <description>Ниже список ссылок на мои работы  Lab 3 - Лабораторная работа 3. Lab 4 - Лабораторная работа 4. Lab 5 - Лабораторная работа 5. Lab 6 - Лабораторная работа 6. Lab 7 - Лабораторная работа 15.  </description>
+    </item>
+    
+    <item>
+      <title>3 курс. Глубокое обучение</title>
+      <link>https://kvazistam.github.io/portfolio/courses/3rd-year/dl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/3rd-year/dl/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Lab 1 - Лабораторная работа 1.. Lab 2 - Лабораторная работа 2. Lab 3 - Лабораторная работа 3. Lab 4 - Лабораторная работа 4.  </description>
+    </item>
+    
+    <item>
+      <title>3 курс. Компьютерная графика</title>
+      <link>https://kvazistam.github.io/portfolio/courses/3rd-year/comp-graph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/3rd-year/comp-graph/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Lab 1 - Лабораторная работа 1. Lab 2 - Лабораторная работа 2. Lab 3 - Лабораторная работа 3.  </description>
+    </item>
+    
+    <item>
+      <title>3 курс. Машинное обучение</title>
+      <link>https://kvazistam.github.io/portfolio/courses/3rd-year/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/3rd-year/ml/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Lab 1 - Лабораторная работа 1.. Lab 2 - Лабораторная работа 2. Lab 3 - Лабораторная работа 3. Lab 4 - Лабораторная работа 4.  </description>
+    </item>
+    
+    <item>
+      <title>3 курс. Программирование 5-6</title>
+      <link>https://kvazistam.github.io/portfolio/courses/3rd-year/prog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/3rd-year/prog/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Lab 1 - Лабораторная работа 1. Реализация удаленного импорта. Lab 2 - Лабораторная работа 2. Использование API openweathermap.org Lab 4 - Лабораторная работа 4. Создание генератора с элементами ряда Фибоначчи Lab 5 - Лабораторная работа 5. Получение курсов валют (ООП) Lab 6 - Лабораторная работа 6. Использование шаблона «Декоратор» Lab 7 - Лабораторная работа 7. Использование шаблона «Наблюдатель» Lab 8 - Лабораторная работа 8.</description>
+    </item>
+    
+    <item>
+      <title>4 курс. Управление программными проектами</title>
+      <link>https://kvazistam.github.io/portfolio/courses/4th-year/project-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/4th-year/project-management/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Проект - Семестровый проект. Система учета аниме магазина.  </description>
+    </item>
+    
+  </channel>
+</rss>

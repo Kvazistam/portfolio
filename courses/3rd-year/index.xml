@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Портфолио работ за 3 год on Портфолио Маковеева Никиты Владимировича</title>
+    <link>https://kvazistam.github.io/portfolio/courses/3rd-year/</link>
+    <description>Recent content in Портфолио работ за 3 год on Портфолио Маковеева Никиты Владимировича</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kvazistam.github.io/portfolio/courses/3rd-year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 курс. Глубокое обучение</title>
+      <link>https://kvazistam.github.io/portfolio/courses/3rd-year/dl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/3rd-year/dl/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Lab 1 - Лабораторная работа 1.. Lab 2 - Лабораторная работа 2. Lab 3 - Лабораторная работа 3. Lab 4 - Лабораторная работа 4.  </description>
+    </item>
+    
+    <item>
+      <title>3 курс. Компьютерная графика</title>
+      <link>https://kvazistam.github.io/portfolio/courses/3rd-year/comp-graph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/3rd-year/comp-graph/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Lab 1 - Лабораторная работа 1. Lab 2 - Лабораторная работа 2. Lab 3 - Лабораторная работа 3.  </description>
+    </item>
+    
+    <item>
+      <title>3 курс. Машинное обучение</title>
+      <link>https://kvazistam.github.io/portfolio/courses/3rd-year/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/3rd-year/ml/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Lab 1 - Лабораторная работа 1.. Lab 2 - Лабораторная работа 2. Lab 3 - Лабораторная работа 3. Lab 4 - Лабораторная работа 4.  </description>
+    </item>
+    
+    <item>
+      <title>3 курс. Программирование 5-6</title>
+      <link>https://kvazistam.github.io/portfolio/courses/3rd-year/prog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kvazistam.github.io/portfolio/courses/3rd-year/prog/</guid>
+      <description>Ниже список ссылок на мои лабароторные работы  Lab 1 - Лабораторная работа 1. Реализация удаленного импорта. Lab 2 - Лабораторная работа 2. Использование API openweathermap.org Lab 4 - Лабораторная работа 4. Создание генератора с элементами ряда Фибоначчи Lab 5 - Лабораторная работа 5. Получение курсов валют (ООП) Lab 6 - Лабораторная работа 6. Использование шаблона «Декоратор» Lab 7 - Лабораторная работа 7. Использование шаблона «Наблюдатель» Lab 8 - Лабораторная работа 8.</description>
+    </item>
+    
+  </channel>
+</rss>
