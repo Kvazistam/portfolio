@@ -5,6 +5,8 @@ theme = 'paper'
 
 [params]
   github = "kvazistam"
+  name = "kvazistam"
+
 
 [menu]
   [[menu.main]]
